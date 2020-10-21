@@ -1,4 +1,4 @@
-//EXPERIMENT_8
+//EXPERIMENT_7
 
 
 public class RollingDice 
